@@ -1,0 +1,15 @@
+C:\Users\Михаил\RiderProjects\Haming\Haming\bin\Debug\net6.0\Haming.exe
+C:\Users\Михаил\RiderProjects\Haming\Haming\bin\Debug\net6.0\Haming.deps.json
+C:\Users\Михаил\RiderProjects\Haming\Haming\bin\Debug\net6.0\Haming.runtimeconfig.json
+C:\Users\Михаил\RiderProjects\Haming\Haming\bin\Debug\net6.0\Haming.dll
+C:\Users\Михаил\RiderProjects\Haming\Haming\bin\Debug\net6.0\Haming.pdb
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.csproj.AssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.dll
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\refint\Haming.dll
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.pdb
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\Haming.genruntimeconfig.cache
+C:\Users\Михаил\RiderProjects\Haming\Haming\obj\Debug\net6.0\ref\Haming.dll
